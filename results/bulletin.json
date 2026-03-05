@@ -1,3 +1,60 @@
 {
-  "courses": []
+  "courses": [
+    {
+      "course": "COMP-3000",
+      "title": "Seminar: The Real World  (1 Credit)"
+    },
+    {
+      "course": "COMP-3009",
+      "title": "Essential Math for Data Science and AI  (4 Credits)"
+    },
+    {
+      "course": "COMP-3372",
+      "title": "Advanced Algorithms  (4 Credits)"
+    },
+    {
+      "course": "COMP-3455",
+      "title": "Shell Scripting and System Tools  (4 Credits)"
+    },
+    {
+      "course": "COMP-3495",
+      "title": "AI Design Project  (4 Credits)"
+    },
+    {
+      "course": "COMP-3525",
+      "title": "Human Centered AI - Mind Reading Machines  (4 Credits)"
+    },
+    {
+      "course": "COMP-3681",
+      "title": "Networking for Games  (4 Credits)"
+    },
+    {
+      "course": "COMP-3701",
+      "title": "Topics in Computer Graphics  (4 Credits)"
+    },
+    {
+      "course": "COMP-3702",
+      "title": "Topics in Database  (4 Credits)"
+    },
+    {
+      "course": "COMP-3703",
+      "title": "Topics-Artificial Intelligence  (4 Credits)"
+    },
+    {
+      "course": "COMP-3704",
+      "title": "Advanced Topics: Systems  (4 Credits)"
+    },
+    {
+      "course": "COMP-3705",
+      "title": "Topics in Computer Science  (1-4 Credits)"
+    },
+    {
+      "course": "COMP-3991",
+      "title": "Independent Study  (1-10 Credits)"
+    },
+    {
+      "course": "COMP-3995",
+      "title": "Independent Research  (1-10 Credits)"
+    }
+  ]
 }
